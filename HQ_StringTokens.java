@@ -4,7 +4,7 @@ Note: You may find the String.split method helpful in completing this challenge.
 
 Input Format
 
-A single string, .
+A single string, 
 
 Constraints
 
